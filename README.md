@@ -32,3 +32,8 @@ A full-stack Java web application for calculating GPA based on marks (0-100) usi
 1. Clone the repository:
 ```bash
 git clone https://github.com/SEsaifulaziz/GPA-Calculator-WebApp.git
+
+```
+## Author
+
+Saifulaziz
